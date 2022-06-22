@@ -1,0 +1,7 @@
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb

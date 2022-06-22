@@ -1,0 +1,7 @@
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\Excalibur\Desktop\DesignPatterns\FactoryDesignPattern2\bin\Debug\FactoryDesignPattern2.exe.config
+C:\Users\Excalibur\Desktop\DesignPatterns\FactoryDesignPattern2\bin\Debug\FactoryDesignPattern2.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\FactoryDesignPattern2\bin\Debug\FactoryDesignPattern2.pdb
+C:\Users\Excalibur\Desktop\DesignPatterns\FactoryDesignPattern2\obj\Debug\FactoryDesignPattern2.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\FactoryDesignPattern2\obj\Debug\FactoryDesignPattern2.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\FactoryDesignPattern2\obj\Debug\FactoryDesignPattern2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe.config
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\bin\Debug\FacadeDesignPattern.pdb
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.exe
+C:\Users\Excalibur\Desktop\DesignPatterns\FacadeDesignPattern\obj\Debug\FacadeDesignPattern.pdb
